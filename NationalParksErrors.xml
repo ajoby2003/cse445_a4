@@ -75,7 +75,7 @@
     <Name>Cuyahoga Valley National Park</Name>
     <Phone>440-546-5918</Phone>
     <Address NearestAirport="Cleveland Hopkins International Airport">
-      <Number>15610/Number>
+      <Number>15610</Number>
       <Street>Vaughn Rd</Street>
       <City>Brecksville</City>
       <State>OH</State>
@@ -87,7 +87,7 @@
     <Name>Badlands national park</Name>
     <Phone>605-433-5361</Phone>
     <Address NearestAirport="Rapid City Regional Airport">
-      <Number>25216/Number>
+      <Number>25216</Number>
       <Street>Ben Reifel Rd</Street>
       <City>Interior</City>
       <State>SD</State>
@@ -100,7 +100,7 @@
     <Name>Cactus National Park</Name>
     <Phone>520-733-5153</Phone>
     <Address NearestAirport="Tucson International Airport">
-      <Number>3693/Number>
+      <Number>3693</Number>
       <Street>S Old Spanish Trail</Street>
       <City>Tucson</City>
       <State>AZ</State>
@@ -112,7 +112,7 @@
     <Name>Capitol Reef National Park</Name>
     <Phone>435-425-3791</Phone>
     <Address NearestAirport="Salt Lake City International Airport">
-      <Number>52/Number>
+      <Number>52</Number>
       <Street>West Headquarters Drive</Street>
       <City>Torrey</City>
       <State>UT</State>
@@ -124,7 +124,7 @@
     <Name>Great Basin National Park</Name>
     <Phone>775-234-7331</Phone>
     <Address NearestAirport="Harry Reid International Airport">
-      <Number>100/Number>
+      <Number>100</Number>
       <Street>Great Basin National Park</Street>
       <City>Baker</City>
       <State>NV</State>
