@@ -53,6 +53,7 @@
   <NationalPark Rating="4.8">
     <Name>Zion National Park</Name>
     <Phone>435-772-3256</Phone>
+    <Phone>435-772-7700</Phone>
     <Address NearestAirport="Harry Reid International Airport">
       <Number>1</Number>
       <Street>Zion Park Blvd</Street>
