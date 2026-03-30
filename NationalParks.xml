@@ -94,7 +94,7 @@
       <Street>Ben Reifel Rd</Street>
       <City>Interior</City>
       <State>SD</State>
-      <Zip>57750/Zip>
+      <Zip>57750</Zip>
     </Address>
   </NationalPark>
   
@@ -106,7 +106,7 @@
       <Street>S Old Spanish Trail</Street>
       <City>Tucson</City>
       <State>AZ</State>
-      <Zip>85730/Zip>
+      <Zip>85730</Zip>
     </Address>
   </NationalPark>
   
@@ -118,7 +118,7 @@
       <Street>West Headquarters Drive</Street>
       <City>Torrey</City>
       <State>UT</State>
-      <Zip>84775/Zip>
+      <Zip>84775</Zip>
     </Address>
   </NationalPark>
   
@@ -130,7 +130,7 @@
       <Street>Great Basin National Park</Street>
       <City>Baker</City>
       <State>NV</State>
-      <Zip>89311/Zip>
+      <Zip>89311</Zip>
     </Address>
   </NationalPark>
   
