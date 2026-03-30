@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearstAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  
+    <NationalPark Rating="4.8">
+    <Name>Coronado National Forest</Name>
+    <Phone>520-388-8300</Phone>
+    <Address NearstAirport="Tucson International Airport">
+      <Number>300</Number>
+      <Street>W Congress St.</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85701</Zip>
+    </Address>
+  </NationalPark>
+  
+    <NationalPark Rating="4.8">
+    <Name>Rocky Mountain National Park</Name>
+    <Phone>970-586-1206</Phone>
+    <Address NearstAirport="Denver International Airport">
+      <Number>1000</Number>
+      <Street>U.S. Highway 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+  
+    <NationalPark Rating="4.9">
+    <Name>Acadia National Park</Name>
+    <Phone>207-288-3338</Phone>
+    <Address NearstAirport="Bangor International Airport">
+      <Number>20</Number>
+      <Street>McFarland Hill Dr</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+  
+    <NationalPark Rating="4.8">
+    <Name>Zion National Park</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+  
+  <NationalPark Rating="4.9">
+    <Name>Great Smoky Mountains National Park</Name>
+    <Phone>865-436-1200</Phone>
+    <Address NearstAirport="McGhee Tyson Airport">
+      <Number>107</Number>
+      <Street>Park Headquarters Rd</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+  
+  <NationalPark Rating="4.8">
+    <Name>Cuyahoga Valley National Park</Name>
+    <Phone>440-546-5918</Phone>
+    <Address NearstAirport="Cleveland Hopkins International Airport">
+      <Number>15610/Number>
+      <Street>Vaughn Rd</Street>
+      <City>Brecksville</City>
+      <State>OH</State>
+      <Zip>44141</Zip>
+    </Address>
+  </NationalPark>
+  
+    <NationalPark Rating="4.9">
+    <Name>Badlands national park</Name>
+    <Phone>605-433-5361</Phone>
+    <Address NearstAirport="Rapid City Regional Airport">
+      <Number>25216/Number>
+      <Street>Ben Reifel Rd</Street>
+      <City>Interior</City>
+      <State>SD</State>
+      <Zip>57750/Zip>
+    </Address>
+  </NationalPark>
+  
+  <NationalPark Rating="4.8">
+    <Name>Saguaro National Park</Name>
+    <Phone>520-733-5153</Phone>
+    <Address NearstAirport="Tucson International Airport">
+      <Number>3693/Number>
+      <Street>S Old Spanish Trail</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85730/Zip>
+    </Address>
+  </NationalPark>
+  
+  <NationalPark Rating="4.8">
+    <Name>Capitol Reef National Park</Name>
+    <Phone>435-425-3791</Phone>
+    <Address NearstAirport="Salt Lake City International Airport">
+      <Number>52/Number>
+      <Street>West Headquarters Drive</Street>
+      <City>Torrey</City>
+      <State>UT</State>
+      <Zip>84775/Zip>
+    </Address>
+  </NationalPark>
+  
+  <NationalPark Rating="4.7">
+    <Name>Great Basin National Park</Name>
+    <Phone>775-234-7331</Phone>
+    <Address NearstAirport="Harry Reid International Airport">
+      <Number>100/Number>
+      <Street>Great Basin National Park</Street>
+      <City>Baker</City>
+      <State>NV</State>
+      <Zip>89311/Zip>
+    </Address>
+  </NationalPark>
+  
+</NationalParks>
