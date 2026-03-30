@@ -14,7 +14,7 @@
     </Address>
   </NationalPark>
   
-    <NationalPark>
+  <NationalPark>
     <Name>Coronado National Forest</Name>
     <Phone>520-388-8300</Phone>
     <Address NearestAirport="Tucson International Airport">
@@ -26,7 +26,7 @@
     </Address>
   </NationalPark>
   
-    <NationalPark Rating="4.8">
+  <NationalPark Rating="4.8">
     <Name>Rocky Mountain National Park</Name>
     <Phone>970-586-1206</Phone>
       <Number>1000</Number>
@@ -37,7 +37,7 @@
     </Address>
   </NationalPark>
   
-    <NationalPark Rating="4.9">
+  <NationalPark Rating="4.9">
     <Name>Acadia National Park</Name>
     <Phone>207-288-3338</Phone>
     <Address NearestAirport="Bangor International Airport">
@@ -49,7 +49,7 @@
     </Address>
   </NationalPark>
   
-    <NationalPark Rating="4.8">
+  <NationalPark Rating="4.8">
     <Name>Zion National Park</Name>
     <Address NearestAirport="Harry Reid International Airport">
       <Number>1</Number>
@@ -60,7 +60,7 @@
     </Address>
   </NationalPark>
   
-  <NationalPark Rating="4.9">
+<NationalPark Rating="4.9">
     <Name>Great Smoky Mountains National Park</Name>
     <Phone>865-436-1200</Phone>
     <Address NearestAirport="McGhee Tyson Airport">
@@ -71,7 +71,7 @@
       <Zip>37738</Zip>
   </NationalPark>
   
-  <NationalPark Rating="4.8">
+<NationalPark Rating="4.8">
     <Name>Cuyahoga Valley National Park</Name>
     <Phone>440-546-5918</Phone>
     <Address NearestAirport="Cleveland Hopkins International Airport">
@@ -83,7 +83,7 @@
     </Address>
   </NationalPark>
   
-    <NationalPark Rating="4.9">
+  <NationalPark Rating="4.9">
     <Name>Badlands national park</Name>
     <Phone>605-433-5361</Phone>
     <Address NearestAirport="Rapid City Regional Airport">
